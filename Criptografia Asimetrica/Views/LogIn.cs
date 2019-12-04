@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Criptografia_Asimetrica.Views;
 
@@ -31,7 +24,7 @@ namespace Criptografia_Asimetrica
 
         private void btnEnter_Click(object sender, EventArgs e)
         {
-            formHome home = new formHome(txtBxName.Text);
+            var home = new formHome(txtBxName.Text);
 
             Hide();
             home.ShowDialog(this);

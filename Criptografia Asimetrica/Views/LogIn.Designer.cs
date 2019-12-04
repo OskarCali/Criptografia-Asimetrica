@@ -55,6 +55,7 @@
             // 
             // btnEnter
             // 
+            this.btnEnter.Enabled = false;
             this.btnEnter.Location = new System.Drawing.Point(144, 118);
             this.btnEnter.Name = "btnEnter";
             this.btnEnter.Size = new System.Drawing.Size(95, 44);
@@ -65,6 +66,7 @@
             // 
             // formLogIn
             // 
+            this.AcceptButton = this.btnEnter;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(382, 202);
