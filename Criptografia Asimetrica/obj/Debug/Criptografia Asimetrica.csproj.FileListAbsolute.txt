@@ -1,0 +1,10 @@
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\bin\Debug\Criptografia Asimetrica.exe.config
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\bin\Debug\Criptografia Asimetrica.exe
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\bin\Debug\Criptografia Asimetrica.pdb
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia Asimetrica.csprojAssemblyReference.cache
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia_Asimetrica.Views.formHome.resources
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia_Asimetrica.formLogIn.resources
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia_Asimetrica.Properties.Resources.resources
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia Asimetrica.csproj.GenerateResource.cache
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia Asimetrica.exe
+D:\OskarCali\Criptografia Asimetrica\Criptografia Asimetrica\obj\Debug\Criptografia Asimetrica.pdb
